@@ -114,4 +114,5 @@ heart-disease-prediction/
 - Jupyter Notebook
 
 ## 📌 Ашиглалтын заавар
-
+1. pip install -r requirmenets.txt
+2. python main.py
